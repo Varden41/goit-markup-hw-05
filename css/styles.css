@@ -575,8 +575,6 @@ letter-spacing: 0.03em;
 .hover-content {
 position: relative;
 display: flex;
-
-
 }
 
 .hover-text {
@@ -591,7 +589,6 @@ display: flex;
     padding: 63px 24px;
     opacity: 0;
     
-
     color: var(--additionat-text-color);
     font-weight: 400;
     font-size: 18px;
